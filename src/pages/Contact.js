@@ -7,7 +7,7 @@ class About extends Component {
     return (
       <div>
         <Navbar />
-        <Banner title="Contact" subtitle="Please contact me at test@test.in" />
+        <Banner title="Contact" subtitle="Please contact me" />
         <div className="container">
           <h2>Contact</h2>
           <p>
