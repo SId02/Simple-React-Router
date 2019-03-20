@@ -8,7 +8,7 @@ class Home extends Component {
     return (
       <div>
         <Navbar />
-        <Banner title="Welcome" subtitle="Put something witty here!" />
+        <Banner title="Welcome" subtitle="to react router" />
         <div className="container">
           <h2>Welcome</h2>
           <p>
